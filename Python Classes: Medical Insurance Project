@@ -1,3 +1,5 @@
+#Storing and updating patient information using Python class methods
+
 class Patient:
   def __init__(self, name, age,sex,bmi,num_of_children,smoker):
     self.name = name
